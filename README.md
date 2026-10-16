@@ -1,7 +1,7 @@
 ### Hi, I'm Arjav
 
-GenAI engineer and Associate Consultant at Capgemini, Bangalore. I build RAG pipelines, AI agents and the
-evaluation that keeps them honest, and I ship them to production.
+GenAI engineer at Capgemini, Bangalore: promoted twice in three years, from Analyst to Associate Consultant. I build
+RAG pipelines, AI agents and the evaluation that keeps them honest, and I ship them to production.
 
 **Portfolio:** [arjav-tongia.vercel.app](https://arjav-tongia.vercel.app) ·
 **LinkedIn:** [in/arjavtongia](https://www.linkedin.com/in/arjavtongia) ·
@@ -20,7 +20,7 @@ evaluation that keeps them honest, and I ship them to production.
 | [Document Extraction Pipeline](https://github.com/arjavtongia/document-extraction-pipeline) | GST invoices and contracts to validated JSON, doubtful ones routed to review | 88.3% fully correct on a held-out set |
 
 #### Certifications and awards
-Claude Certified Architect - Professional (Anthropic) · Databricks Certified Generative AI Engineer Associate · Capgemini Shining Star Award (2024)
+[Claude Certified Architect - Professional](https://www.credly.com/badges/9762e184-8d84-46b8-b9ea-751699a27790) (Anthropic) · [Databricks Certified Generative AI Engineer Associate](https://credentials.databricks.com/632b1cc4-3a56-49cd-ae69-bff3b6275bf4) · Capgemini Shining Star Award (2024)
 
 #### Stack
 Python · LangChain · LangGraph · PyTorch · Hugging Face · Qdrant · FAISS · FastAPI · Pydantic · AWS · Azure · Databricks
