@@ -19,8 +19,8 @@ evaluation that keeps them honest, and I ship them to production.
 | [RBI RAG Assistant](https://github.com/arjavtongia/rbi-rag-assistant) | Cited answers over RBI regulations with hybrid search and reranking | Hit@1 100%, faithfulness 0.99 |
 | [Document Extraction Pipeline](https://github.com/arjavtongia/document-extraction-pipeline) | GST invoices and contracts to validated JSON, doubtful ones routed to review | 88.3% fully correct on a held-out set |
 
-#### Certifications
-Claude Certified Architect · Databricks Certified Generative AI Engineer Associate
+#### Certifications and awards
+Claude Certified Architect - Professional (Anthropic) · Databricks Certified Generative AI Engineer Associate · Capgemini Shining Star Award (2024)
 
 #### Stack
 Python · LangChain · LangGraph · PyTorch · Hugging Face · Qdrant · FAISS · FastAPI · Pydantic · AWS · Azure · Databricks
